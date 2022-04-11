@@ -1,0 +1,8 @@
+# Системные
+Thumbs.db
+
+# Intellij
+.idea/
+
+# Maven
+target/
